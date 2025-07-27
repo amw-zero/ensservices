@@ -2,5 +2,5 @@
 title: "Hvac"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
-excerpt: Hvac services
+excerpt: Heating, cooling, ventilation, filter replacement, seasonal tune-ups, emergency repairs.
 ---
