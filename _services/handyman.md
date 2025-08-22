@@ -2,5 +2,5 @@
 title: "Handyman Services"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
-excerpt: Minor repairs, furniture assembly, drywall patching, caulking, painting touch-ups, odd jobs.
+excerpt: Minor repairs, furniture assembly, drywall patching, caulking, painting touch-ups, odd jobs
 ---
